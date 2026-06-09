@@ -1,76 +1,125 @@
 <div align="center">
-  <h1>
-    <span style="background: linear-gradient(135deg, #58A6FF, #F78166); -webkit-background-clip: text; background-clip: text; color: transparent;">
-      “Code is like humor. When you have to explain it, it's bad.”
-    </span>
-    <br>
-  </h1>
+
+# Hey, I'm Arnab 👋
+
+**Backend Developer** · VIT Bhopal, B.Tech CSE '28  
+Building things with Node.js, Spring Boot & occasionally breaking prod at 2am.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-kumar-980442285/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/ari9516)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajatkumarsingh9516@gmail.com)
+
 </div>
+
+---
+
+## About
 
 <table>
-  <tr>
-    <td width="60%">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>🔭 I'm currently working on <strong>Backend</strong></li>
-        <li>🌱 I'm currently learning <strong>JavaScript, Java, and Full Stack Development</strong></li>
-        <li>👯 I'm looking to collaborate on <strong>open source projects</strong></li>
-        <li>💬 Ask me about <strong>web development, Java, and JavaScript</strong></li>
-        <li>📫 How to reach me: <strong>rajatkumarsingh9516@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>Code + coffee = magic ✨</strong></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF">
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+I'm a first-year CS student focused on backend development and FinTech. I like building systems that actually do something useful — REST APIs, finance trackers, football analytics, you name it. Currently exploring Node.js, deepening my Java/Spring Boot skills, and contributing to open source through **GirlScript Summer of Code 2026** (selected in Open Source + AI/Agents tracks).
+
+I write code that I'd be okay shipping, not just submitting.
+
+</td>
+<td width="40%" align="center">
+<img src="https://i.giphy.com/media/citBl9yPwnUOs/giphy.webp" width="260" alt="Coding gif" />
+</td>
+</tr>
 </table>
 
-## 🛠️ Tech Stack
+---
+
+## Tech Stack
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Database & ORM**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+## Projects
+
+### [LootLedger](https://github.com/ari9516/lootledger) — Gaming Economy Finance Tracker
+Full-stack app to track in-game currencies, transactions, and balances across multiple games. Built with Node.js/Express, PostgreSQL, Prisma, React + Vite, and Tailwind CSS v4. Deployed and live.  
+`Node.js` `PostgreSQL` `Prisma` `React` `Tailwind CSS`  
+🌐 [lootledger-gamma.vercel.app](https://lootledger-gamma.vercel.app)
+
+---
+
+### [ThePitch](https://github.com/ari9516/ThePitch) — Football Match Prediction
+Java-based football analytics app that predicts match outcomes using historical data.  
+`Java` `Data Analysis` `Predictive Modelling`
+
+---
+
+### [ReviewSaver](https://github.com/ari9516/reviewsaver-backend) — Review Management API
+Full-stack REST API for saving and managing product reviews. Frontend deployed on Netlify.  
+`Spring Boot` `Java` `REST API`
+
+---
+
+### [SplitRight](https://github.com/ari9516/splitright) — Bill Splitting API
+Backend REST API with JWT authentication, debt minimization algorithm, and MySQL persistence.  
+`Spring Boot` `JWT` `MySQL` `REST API`
+
+---
+
+### [BridgeFi](https://github.com/ari9516/bridgefi) — AI-Powered FinTech Tool
+Built at NextGen AI Hackathon 2026 — async Python + AI integration for financial bridging workflows. Hackathon Finalist.  
+`Python` `AI/LLM` `FinTech`
+
+---
+
+## Achievements
+
+- 🏆 **NextGen AI Hackathon 2026** — Finalist (BridgeFi)
+- 🛡️ **HackZero CTF** — Rank 60
+- 🌸 **GirlScript Summer of Code 2026** — Selected (Open Source + AI/Agents tracks)
+
+---
+
+## Certifications
+
+- 📜 **The Bits and Bytes of Computer Networking** — Coursera (Google), 2024
+- 📜 **Cloud Computing** — NPTEL
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ari9516&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ari9516&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=ari9516&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari9516&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ari9516&theme=radical&utcOffset=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari9516&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" />
 </div>
 
-## 📌 Featured Projects
+---
 
-<div align="center">
-  
-  <a href="https://github.com/ari9516/reviewsaver-backend">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ari9516&repo=reviewsaver-backend&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/ari9516/CCRM">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ari9516&repo=CCRM&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari9516&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" alt="Contribution Graph"/>
-</div>
-
-## 🐍 Snake Eating My Contributions
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -80,18 +129,10 @@
   </picture>
 </div>
 
-## 🤝 Let's Connect
+---
 
 <div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ari9516)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-kumar-980442285/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatkumarsingh9516@gmail.com)
-  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ari9516&style=for-the-badge&color=58A6FF" alt="Profile Views">
-  
-  ### ⭐️ From [ari9516](https://github.com/ari9516) | 💖 Thanks for visiting!
+  <img src="https://komarev.com/ghpvc/?username=ari9516&style=flat-square&color=58A6FF" alt="Profile Views">
+  <br><br>
+  <sub>Open to internships · backend · FinTech · open source</sub>
 </div>
